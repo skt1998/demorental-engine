@@ -1,7 +1,7 @@
-package com.fintech.demorental_engine.service;
+package com.fintech.rental_engine.service;
 
-import com.fintech.demorental_engine.entity.RentalOrder;
-import com.fintech.demorental_engine.repository.RentalOrderRepository;
+import com.fintech.rental_engine.entity.RentalOrder;
+import com.fintech.rental_engine.repository.RentalOrderRepository;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;

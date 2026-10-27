@@ -1,4 +1,4 @@
-package com.fintech.demorental_engine.entity;
+package com.fintech.rental_engine.entity;
 
 import jakarta.persistence.*;
 import java.math.BigDecimal;

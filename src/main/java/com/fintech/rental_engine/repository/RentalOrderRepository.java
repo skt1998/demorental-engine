@@ -1,6 +1,6 @@
-package com.fintech.demorental_engine.repository;
+package com.fintech.rental_engine.repository;
 
-import com.fintech.demorental_engine.entity.RentalOrder;
+import com.fintech.rental_engine.entity.RentalOrder;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,7 +1,7 @@
-package com.fintech.demorental_engine.controller;
+package com.fintech.rental_engine.controller;
 
-import com.fintech.demorental_engine.entity.RentalOrder;
-import com.fintech.demorental_engine.service.RentalOrderService;
+import com.fintech.rental_engine.entity.RentalOrder;
+import com.fintech.rental_engine.service.RentalOrderService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
